@@ -1,6 +1,6 @@
 # EDS 220 Discussion Sections Repository
 
-This repository hosts all the work completed by Lucian Scher during the discussion sections of EDS 220 - *Working with Environmental Data*.
+This repository hosts all the work completed by Lucian Blue Scher during the discussion sections of EDS 220 - *Working with Environmental Data*.
 
 ## Course Information
 
